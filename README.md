@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install express sequelize mysql2 body-parser cors --save
 ```
 
 ### Compiles 
